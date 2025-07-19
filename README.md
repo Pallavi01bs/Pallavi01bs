@@ -49,7 +49,6 @@
  - Successfully classified shapes based on vertex count and geometric properties.
  - Tools: Python, OpenCV, NumPy.
 
-----
 
 ## 🏆 Achievements
  - 🎓 Completed Diploma in ISE and was ranked among the **Top 3**. 
@@ -58,13 +57,11 @@
  - 🎤 Presented projects at college-level seminars and internal reviews.
  - 🚀 Actively learning **Data Science**, **NLP**, and **Full Stack Development** on my own.
 
-----
 
 ## 📫 Let's Connect
  - 📧 Email: [pallavi01bs@gmail.com]
  - 🔗 [LinkedIn](http://www.linkedin.com/in/pallavi01bs)
 
-----
 
 ## 🔭 Future Goals
  - 🌐 Become skilled in **Full Stack Web Development** using modern frameworks.
