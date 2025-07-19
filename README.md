@@ -52,7 +52,7 @@
 ----
 
 ## 🏆 Achievements
- - 🎓 Completed Diploma in ISE and was ranked among the **Top** 3% of the students. 
+ - 🎓 Completed Diploma in ISE and was ranked among the **Top 3**. 
  - 💡 Built and deployed 4+ major technical projects in Machine Learning, NLP, and Web Development.
  - 📜 Completed certifications in **Python**,**Artificial Intelligence & Machine Learning**, and **Data Visualization**.
  - 🎤 Presented projects at college-level seminars and internal reviews.
